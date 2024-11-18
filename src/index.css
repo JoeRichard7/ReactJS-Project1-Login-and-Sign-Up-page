@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family:sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  height: 100 vh;
+  background-image: url('C:\Users\USER\Desktop\ReactJS\login-signup\login-signup\src\components\Assets\bg.jpg');
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
