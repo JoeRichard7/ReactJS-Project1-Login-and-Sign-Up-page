@@ -1,5 +1,10 @@
 A simple and responsive front-end implementation of a Login and Sign Up page built using ReactJS. This project provides the foundation for a user authentication interface and is designed to be easily integrated with any backend system for full authentication functionality.
 
+# 📸Screenshots
+
+![Screenshot 2024-11-13 210018](https://github.com/user-attachments/assets/6968f9c3-14d9-4115-a9bb-28e787fa7065)
+![Screenshot 2024-11-13 205938](https://github.com/user-attachments/assets/45b9f0e0-3cd9-4e8e-82af-d49d4b50f407)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
