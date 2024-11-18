@@ -2,8 +2,8 @@ A simple and responsive front-end implementation of a Login and Sign Up page bui
 
 # 📸Screenshots
 
-![Screenshot 2024-11-13 210018](https://github.com/user-attachments/assets/6968f9c3-14d9-4115-a9bb-28e787fa7065)
 ![Screenshot 2024-11-13 205938](https://github.com/user-attachments/assets/45b9f0e0-3cd9-4e8e-82af-d49d4b50f407)
+![Screenshot 2024-11-13 210018](https://github.com/user-attachments/assets/6968f9c3-14d9-4115-a9bb-28e787fa7065)
 
 # Getting Started with Create React App
 
